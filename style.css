@@ -17,11 +17,24 @@ header, footer {
 }
 
 main {
-  min-height: 70%;
+  min-height: 70vh;
 }
 
 p {
   height: 20%;
   width: 40%;
   padding: 5px;
+}
+
+section {
+  width: 800px;
+  height: 400px;
+  display: flex;
+  padding: 10px;
+  background-color: rgb(241, 195, 86);
+}
+
+.cards {
+  width: 150px;
+  height: 50px;
 }
