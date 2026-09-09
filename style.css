@@ -1,0 +1,22 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    min-height: 100vh;
+    background-color: #ccc; /* ou a cor que definiram na aula */
+}
+
+header, footer {
+    height: 15vh;
+    background-color: #888; /* cor de fundo do header/footer */
+}
+
+main {
+    min-height: 70vh;
+}
+
+p {
+    height: 200px;
+    width: 40%;
+}
